@@ -1,9 +1,9 @@
 ---
-title: About
+title: შესახებ
 ---
 
-Less was created in 2009 by <a href="https://github.com/cloudhead">Alexis Sellier</a>, more commonly known as <a href="https://twitter.com/cloudhead">@cloudhead</a>. Originally written in Ruby, it was then ported to JavaScript.
+Less-ი შეიქმნა 2009 წელს <a href="https://github.com/cloudhead">ალექსის სელლირის</a> (Alexis Sellier)-ის მიერ , უფრო მეტად ი  <a href="https://twitter.com/cloudhead">@cloudhead</a> სახელით ცნობილი. ორიგინალური ვერსია დაწერილი იყო Ruby-ზე, ხოლო შემდედ დაპორტირდა JavaScript-ზე.
 
-In May 2012 Alexis relinquished control and development over to a core team of contributors who now manage, fix and extend the language.
+2012 წლის მაისში ალექსისმა მართვა და განვითარება გადააბარა პროექტის კონტრიბუტორების ჯგუფს და ახლა ის ეწევა მის მართვას, ენის შეცდომების გასწორებას და განვითარებას.
 
 {{!TODO: need more background}}
