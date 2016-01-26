@@ -42,15 +42,39 @@
 @link-color:            #43759E; // @brand-primary;
 @link-hover-color:      darken(@link-color, 15%);
 
+// ავთო ფანგანი
+@font-face {
+    font-family: 'BPG Glaho WEB Caps';
+    src: url('../font/bpg-glaho-web-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../font/bpg-glaho-web-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../font/bpg-glaho-web-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../font/bpg-glaho-web-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../font/bpg-glaho-web-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../font/bpg-glaho-web-caps-webfont.svg#bpg_glaho_web_capsregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'BPG Glaho WEB';
+    src: url('../font/bpg-glaho-web-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../font/bpg-glaho-web-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../font/bpg-glaho-web-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../font/bpg-glaho-web-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../font/bpg-glaho-web-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../font/bpg-glaho-web-webfont.svg#bpg_glaho_webregular') format('svg'); /* Legacy iOS */
+}
 
 // Typography
 // -------------------------
 @body-font:               1rem/1.5 "PT Sans", sans-serif;
 
-@font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-@font-family-serif:       Georgia, "Times New Roman", Times, serif;
-@font-family-monospace:   Monaco, Menlo, Consolas, "Courier New", monospace;
+@font-family-sans-serif:  'BPG Glaho WEB', "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-family-serif:       'BPG Glaho WEB',Georgia, "Times New Roman", Times, serif;
+@font-family-monospace:   'BPG Glaho WEB',Monaco, Menlo, Consolas, "Courier New", monospace;
+// ავთო ფანგანი
+@font-family-GeoCaps: 'BPG Glaho WEB Caps';
+
 @font-family-base:        @font-family-sans-serif;
+
 
 @font-size-base:          14px;
 @font-size-large:         ceil(@font-size-base * 1.25); // ~18px
@@ -66,7 +90,7 @@
 @line-height-base:        1.428571429; // 20/14
 @line-height-computed:    floor(@font-size-base * @line-height-base); // ~20px
 
-@headings-font-family:    @font-family-sans-serif, @font-family-sans-serif;
+@headings-font-family:    @font-family-GeoCaps, @font-family-sans-serif;
 @headings-font-weight:    500;
 @headings-line-height:    1.1;
 @headings-color:          inherit;
