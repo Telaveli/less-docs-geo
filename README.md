@@ -2,23 +2,23 @@
 
 # lesscss.org
 
-> Official website and documentation for Less/Less.js
+> Less/Less.js-ის ოფიციალური ვებ-გვერდი და დოკუმენტაცია
 
-## Quickstart
+## სწრაფი სტარტი
 
-Assemble and Grunt are used to build the docs. To get started:
+დოკუმენტაციის ასაწყობად გამოიყენება Assemble და Grunt-ი. სტარტისათვის:
 
-1. Download the docs
-2. In the root of the project, run `npm install`
-3. Run the `grunt` command to build the docs
+1. ჩამოტვირთეთ docs რეპოზიტორი
+2. პროექტის ძირეულ კპაკაში გაუშვით  run `npm install`
+3. დოკუმენტაციის ასაწყობად გაუშვით `grunt` ბრძანება
 
-If all worked properly, you're ready to begin contributing to the docs!
+თუ ყველაფერი მუშაობს კარგად, თქვენ მზად ხართ დოკუმენტაციის კონტრიბიურებისათვის!
 
-### Documentation
+### დოკუმენტაცია
 
-All documentation content can be found in the `./content` directory. Please read the **contributing** section below if you wish to add documentation.
+მთელი დოკუმენტაციის კონტენტი მოთავსებულია  `./content` პაპკაში. თუ აპირებთ რაიმე დოკუმენტაციის დამატებას, სასურველია ქვემოთ წაიკითხოთ პუნქტი  **contributing**.
 
-## The Plan
+## გეგმა
 
 1. Clean up and organize all of the documentation in the [content](./content) directory, which means
 2. Consistent naming conventions for files, consistent coding styles in documents
