@@ -1,12 +1,12 @@
-TODO - Things to incorporate maybe and then delete this page
+TODO - საკითხების ჩამონათვალი, რომელიც შეიძლება ჩაიდოს ამ დოკუმენტაციაში
 
-**External Resources**
-* Example Less Projects
-* [Stack Overflow: Questions tagged with "Less"][stackoverflow]
-* [Sitepoint, "A Comprehensive Introduction to Less"][sitepoint-article]
-* [Net Tuts+, "Quick Tip: You Need to Check out Less.js"][nettuts]
-* [Hongkiat.com, "Less CSS Tutorial: Designing a Slick Navigation Bar"][hongkiatNavbar]
-* [Hongkiat.com, "Working Effectively With Less: Tips And Tools"][hongkiatEffective]
+**გარე რესურსები**
+*  Less პროექტის მაგალითი
+* [Stack Overflow: "Less" თეგებით მონიშნული კითვები][stackoverflow]
+* [Sitepoint, "Less-ის კომპლექსური გაცნობა"][sitepoint-article]
+* [Net Tuts+, "სწრაფი სწრაფი ცნობარი: Less.js-ის გამოსაცდელად"][nettuts]
+* [Hongkiat.com, "Less CSS მასწავლებელი: წებოვანი მენიუს დიზაინი"][hongkiatNavbar]
+* [Hongkiat.com, "Less ეფექტები: ცნობარი და ხელსაწყოები"][hongkiatEffective]
 
 [nettuts]: http://net.tutsplus.com/tutorials/html-css-techniques/quick-tip-you-need-to-check-out-less-js/ "Quick Tip: You Need to Check out Less.js"
 [sitepoint-article]: http://www.sitepoint.com/a-comprehensive-introduction-to-less/ "Introduction to Less"
